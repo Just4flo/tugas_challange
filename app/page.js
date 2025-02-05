@@ -2,7 +2,7 @@ import React from "react";
 import { FaUser, FaTools, FaBriefcase, FaEnvelope } from "react-icons/fa";
 
 const sections = [
-  { id: "about", title: "About Me", icon: <FaUser className="text-indigo-600" />, content: "Saya adalah mahasiswa semester 4 di universitas masoem" },
+  { id: "about", title: "About Me", icon: <FaUser className="text-indigo-600" />, content: "perkenalkan nama saya yudha purnama saya berasal dari garut dan Saya adalah mahasiswa semester 4 di universitas masoem" },
   { id: "skills", title: "Skills", icon: <FaTools className="text-green-600" />, content: "JavaScript, HTML, php, css" },
   { id: "services", title: "Services", icon: <FaBriefcase className="text-yellow-600" />, content: "bisa memperbaiki kode error dengan bantuan AI" },
   { id: "portfolio", title: "Portfolio", icon: <FaBriefcase className="text-purple-600" />, content: "Proyek yang telah saya kerjakan adalah membuat website jual beli komputer, aplikasi pencatatan nilai" },
